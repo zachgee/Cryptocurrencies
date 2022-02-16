@@ -7,4 +7,4 @@ This weeks challenge was all about unsupervised machine learning. The data we wi
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
 - Deliverable 4: Visualizing Cryptocurrencies Results
 
-The code for all four deliverables can be found in the crypto_clustering.ipymb file.
+The code for all four deliverables can be found in the crypto_clustering.ipynb file.
